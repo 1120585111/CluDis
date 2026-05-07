@@ -19,7 +19,7 @@ CluDis aims to construct a semantically controllable latent space without relyin
    Uses a conditional latent diffusion reconstruction backbone to preserve high-fidelity visual details while maintaining the structured latent representation.
 
 <p align="center">
-  <img src="figures/framework.png" width="95%">
+  <img src="Framework.png" width="95%">
 </p>
 
 ## Repository Status
